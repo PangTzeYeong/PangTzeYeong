@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PangTzeYeong
-- 👀 I’m interested in ... Platform development in Asean
-- 🌱 I’m currently learning ... DevOps
+- 👀 I’m interested in ... dapps development
+- 🌱 I’m currently learning ... Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... pangtzeyeong@gmail.com
 
